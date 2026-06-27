@@ -1,3 +1,0 @@
-This is an assignment where I have to upload Hello World to my
-github repository, screenshot the terminal and output in github,
-then upload to google classroom.
