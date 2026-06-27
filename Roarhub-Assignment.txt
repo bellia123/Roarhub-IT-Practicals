@@ -1,0 +1,2 @@
+This is an assignment to upload "HELLO WORLD" to my github repository,
+take a screenshot of my terminal and the output on my github.
